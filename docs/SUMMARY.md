@@ -4,12 +4,11 @@
 
 ## Configuration
 
-* [Concepts](./configuration/README.md)
+* [Overview](./configuration/README.md)
+* [General Settings](./configuration/generalsettings.md)
+* [Groups](./configuration/groups.md)
+* [Sorters](./configuration/sorters.md)
 * [Adding a new configuration file](./configuration/add.md)
-* [Structure](./configuration/structure.md)
-  * [General Settings](./configuration/generalsettings.md)
-  * [Groups](./configuration/groups.md)
-  * [Sorters](./configuration/sorters.md)
 * [Examples](./configuration/examples/README.md)
   * [Basic](./configuration/examples/basic.md)
   * [Field Grouping](./configuration/examples/field-grouping.md)
@@ -18,5 +17,22 @@
 ## Ignoring Files
 
 * [Overview](./ignorefile/README.md)
-* [Adding a new ignore file](./ignorefile/add.md)
 * [Patterns](./ignorefile/patterns.md)
+* [Adding a new ignore file](./ignorefile/add.md)
+
+## Visual Studio
+
+* [Options](./options/options.md)
+* [Commands](./options/commands.md)
+
+## Support
+
+* [Support](./support/README.md)
+
+## Dontations
+
+* [Donations](./donations/README.md)
+
+## Changelog
+
+* [Changelog](./changelog/README.md)
