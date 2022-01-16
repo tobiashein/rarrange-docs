@@ -1,6 +1,9 @@
 # Summary​
 
 * [Introduction](./README.md)
+* [Support](./support/README.md)
+* [Donations](./donations/README.md)
+* [Changelog](./changelog/README.md)
 
 ## Configuration
 
@@ -24,15 +27,3 @@
 
 * [Options](./options/options.md)
 * [Commands](./options/commands.md)
-
-## Support
-
-* [Support](./support/README.md)
-
-## Dontations
-
-* [Donations](./donations/README.md)
-
-## Changelog
-
-* [Changelog](./changelog/README.md)
