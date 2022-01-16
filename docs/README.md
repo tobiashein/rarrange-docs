@@ -8,7 +8,3 @@
 [![Donate via Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-blue?style=flat-square&logo=buymeacoffee)](https://www.buymeacoffee.com/tobiashein)
 
 RArrange is a C# code beautifier for Visual Studio powered by Roslyn.
-
-## Support
-
-If you want to report a problem or suggest a new feature feel free to open up a new issue.

@@ -1,9 +1,9 @@
 # Summary​
 
 * [Introduction](./README.md)
-* [Support](./support/README.md)
-* [Donations](./donations/README.md)
-* [Changelog](./changelog/README.md)
+* [Support](./support.d)
+* [Donations](./donations.md)
+* [Changelog](./changelog.md)
 
 ## Configuration
 
@@ -27,3 +27,10 @@
 
 * [Options](./options/options.md)
 * [Commands](./options/commands.md)
+
+## Additional Resources
+
+* [Issue Tracker](https://github.com/tobiashein/rarrange-issues/issues)
+* [E-Mail](mailto:rarrange@gmx-topmail.de)
+* [Paypal](https://www.paypal.com/donate/?hosted_button_id=68BJ26PWZ823J)
+* [Buy Me A Coffee](https://www.buymeacoffee.com/tobiashein)
