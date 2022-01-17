@@ -1,6 +1,7 @@
 # Summary​
 
 * [Introduction](./README.md)
+* [Installation](./installation.md)
 * [Support](./support.md)
 * [Donations](./donations.md)
 * [Changelog](./changelog.md)
@@ -8,7 +9,7 @@
 ## Configuration
 
 * [Overview](./configuration/README.md)
-* [General Settings](./configuration/generalsettings.md)
+* [General Settings](./configuration/general-settings.md)
 * [Groups](./configuration/groups.md)
 * [Sorters](./configuration/sorters.md)
   * [Sorter Types](./configuration/sorter-types.md)
@@ -34,6 +35,7 @@
 
 ## Additional Resources
 
+* [Marketplace](https://marketplace.visualstudio.com/items?itemName=TobiasHein.RArrange)
 * [Issue Tracker](https://github.com/tobiashein/rarrange-issues/issues)
 * [E-Mail](mailto:rarrange@gmx-topmail.de)
 * [Paypal](https://www.paypal.com/donate/?hosted_button_id=68BJ26PWZ823J)
