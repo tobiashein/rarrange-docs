@@ -1,7 +1,7 @@
 # Summary​
 
 * [Introduction](./README.md)
-* [Support](./support.d)
+* [Support](./support.md)
 * [Donations](./donations.md)
 * [Changelog](./changelog.md)
 
